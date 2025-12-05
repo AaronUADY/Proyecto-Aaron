@@ -1,0 +1,1 @@
+¿Recuerda lo que dije sobre leer las instrucciones de cerca? Adivine que fue lo que NO hicimos. Acerto, leer mas cerca las instrucciones. Enviamos todo el repositorio en lugar de el puro archivo C ya completo. Siento que la penalización de puntos por ello es algo excesiva, pero se entiende. Fue nuestro error por no leer.
