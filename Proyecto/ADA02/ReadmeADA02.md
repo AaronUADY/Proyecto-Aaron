@@ -1,0 +1,1 @@
+Esta creo que fue de las tareas mas sencillas en la clase. no fue mucho problema implementarla. la unica cosa que se nos fue es hacer que el numero de clientes fuera random. se nos fue cambiar eso. fuera de ello, todo bien.
