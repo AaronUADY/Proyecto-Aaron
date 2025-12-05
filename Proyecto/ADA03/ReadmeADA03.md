@@ -1,0 +1,1 @@
+Esta fue una pesadilla, especialmente a la hora de hacer el display de las peliculas. De un modo u otro, rompia con la forma de leerlas, probablemente por la inmensa cantidad de caracteres en ese documento (¡el documento es tan grande que ni si quiera github lo acepta!), pero valio la pena por esa tarea perfecta.
