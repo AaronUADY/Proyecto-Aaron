@@ -1,0 +1,1 @@
+En esta se nos fue hacer el documento de la investigación. simplemente hicimos el documento que usamos para presentar nuestro algoritmo, presentación durante la cual tuvimos ciertos procesos. ¿Como pudimos olvidar la investigación? Ni idea, pero espero eso nos haya hecho aprender a leer las instrucciones mas de cerca.
