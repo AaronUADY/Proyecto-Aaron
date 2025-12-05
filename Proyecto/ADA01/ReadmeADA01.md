@@ -1,0 +1,1 @@
+Esta ADA siento que fue una introdución buena a la materia, aunque un poco ruda, al menos en ese momento. No esperaba que de buenas a primeras necesitaramos leer y escribir archivos, y eso es algo con lo que no estaba muy familiarizado en ese entonces. Aun así siento que logramos la tarea bien, pese a unos errores ligeros.
