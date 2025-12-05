@@ -1,0 +1,1 @@
+Este no es de nuestros mejores trabajos. el programa simplemente no quiso funcionar por un largo rato, e incluso cuando creimos que funcionaba, nos faltaba todavia implementar cosas, y no se reflejaba correctamente el arbol... en fin, un pequeño tropiezo espero no nos vuelva a pasar.
